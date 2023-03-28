@@ -1,5 +1,6 @@
 # CuaHangDoAn
 
+- Class diagram: https://drive.google.com/file/d/1guvT5kbRztpTpbfEyzeHl0auAq3YmXFV/view?usp=share_link
 
 Visual studio 2022 (tùy chọn)
 

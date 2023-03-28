@@ -1,4 +1,4 @@
-﻿using CuaHangDoAn.Models;
+using CuaHangDoAn.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 using System.Security.Principal;
@@ -17,8 +17,7 @@ namespace CuaHangDoAn.Data
         public DbSet<NhaCungCap>? NhaCungCaps { get; set; } = default!;
         public DbSet<HoaDonMuaNguyenLieu>? HoaDonMuaNguyenLieus { get; set; } = default!;
         public DbSet<MonAn>? MonAns { get; set; } = default!;
-        public DbSet<DonHang>? DonHangs { get; set; } = default!;
         public DbSet<NhanVien>? NhanViens { get; set; } = default!;
-
+        public DbSet<DonHang>? DonHangs { get; set; } = default!;
     }
 }

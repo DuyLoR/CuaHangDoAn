@@ -4,7 +4,7 @@
     {
         public int Id { get; set; }
         public string TenNguyenLieu { get; set; }
-        public string DonViTInh { get; set; }
+        public string DonViTinh { get; set; }
 
     }
 }
